@@ -40,12 +40,6 @@ li a {
     display: block;
     padding: 30px 0 30px 30px;
     text-decoration: none;
-}
-
-li a:default,
-li a:active,
-li a:visited,
-li a:hover {
     color: #777777;
 }
 
